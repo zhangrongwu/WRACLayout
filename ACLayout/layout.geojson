@@ -1,0 +1,252 @@
+{
+    "errno": 0,
+    "error": "",
+    "data": [{
+             "rowHeight": 44,
+             "rowBgColor": "#4682B4",
+             "lineSpace": 0,
+             "views": [{
+                       "left": 0,
+                       "top": 0,
+                       "viewType": "UILabel",
+                       "viewClass": {
+                       "textTop": 10,
+                       "textLeft": 15,
+                       "fontSize": 12,
+                       "text": "需供撮合",
+                       "fgColor": "#FFFFFF",
+                       "bgColor": "#4682B4"
+                       }
+                       }]
+             },
+             {
+             "rowHeight": 165,
+             "lineSpace": 0,
+             "views": [{
+                       "left": 0,
+                       "top": 0,
+                       "viewType": "UIImageTextSquare",
+                       "viewClass": {
+                       "imageTop": 120,
+                       "textTop": 34,
+                       "fontSize": 12,
+                       "imageUrl": "http://183.196.130.125:9001/valuexchange/workbench/images/2.1.png",
+                       "text": "我发起的",
+                       "url": "http://183.196.130.125:9001/valuexchange/workbench/images/2.1.png",
+                       "fgColor": "#FFFFFF",
+                       "bgColor": "#4682B4",
+                       "clickBgColor": "#CBD40B",
+                       "borderTop": 1,
+                       "borderRight": 0,
+                       "borderBottom": 0,
+                       "borderLeft": 1,
+                       "borderColor": "#778899",
+                       "width": 0.25,
+                       "status": 1
+                       }
+                       },
+                       {
+                       "left": 0.25,
+                       "top": 0,
+                       "viewType": "UIImageTextSquare",
+                       "viewClass": {
+                       "imageTop": 120,
+                       "textTop": 34,
+                       "fontSize": 12,
+                       "imageUrl": "http://183.196.130.125:9001/valuexchange/workbench/images/2.2.png",
+                       "text": "我负责的",
+                       "url": "http://183.196.130.125:9001/valuexchange/workbench/images/2.2.png",
+                       "fgColor": "#FFFFFF",
+                       "bgColor": "#4682B4",
+                       "clickBgColor": "#CBD40B",
+                       "borderTop": 1,
+                       "borderRight": 0,
+                       "borderBottom": 0,
+                       "borderLeft": 1,
+                       "borderColor": "#778899",
+                       "width": 0.25,
+                       "status": 0
+                       }
+                       },
+                       {
+                       "left": 0.5,
+                       "top": 0,
+                       "viewType": "UIImageTextSquare",
+                       "viewClass": {
+                       "imageTop": 120,
+                       "textTop": 34,
+                       "fontSize": 12,
+                       "imageUrl": "http://183.196.130.125:9001/valuexchange/workbench/images/2.3.png",
+                       "text": "我参与的",
+                       "url": "http://183.196.130.125:9001/valuexchange/workbench/images/2.3.png",
+                       "fgColor": "#FFFFFF",
+                       "bgColor": "#4682B4",
+                       "clickBgColor": "#CBD40B",
+                       "borderTop": 1,
+                       "borderRight": 0,
+                       "borderBottom": 0,
+                       "borderLeft": 1,
+                       "borderColor": "#778899",
+                       "width": 0.25,
+                       "status": 0
+                       }
+                       },
+                       {
+                       "left": 0.75,
+                       "top": 0,
+                       "viewType": "UIImageTextSquare",
+                       "viewClass": {
+                       "imageTop": 120,
+                       "textTop": 34,
+                       "fontSize": 12,
+                       "imageUrl": "http://183.196.130.125:9001/valuexchange/workbench/images/2.4.png",
+                       "text": "我关注的",
+                       "url": "http://183.196.130.125:9001/valuexchange/workbench/images/2.4.png",
+                       "fgColor": "#FFFFFF",
+                       "bgColor": "#4682B4",
+                       "clickBgColor": "#CBD40B",
+                       "borderTop": 1,
+                       "borderRight": 1,
+                       "borderBottom": 1,
+                       "borderLeft": 1,
+                       "borderColor": "#778899",
+                       "width": 0.25,
+                       "status": 0
+                       }
+                       }]
+             },
+             {
+             "lineSpace": 0,
+             "rowHeight": 164,
+             "views": [{
+                       "left": 0,
+                       "top": 0,
+                       "viewType": "UIImageTextFlat",
+                       "viewClass": {
+                       "imageLeft": 82,
+                       "textLeft": 40,
+                       "fontSize": 12,
+                       "imageUrl": "http://183.196.130.125:9001/valuexchange/workbench/images/3.1.png",
+                       "text": "我要发需求",
+                       "url": "http://183.196.130.125:9001/valuexchange/workbench/images/3.1.png",
+                       "fgColor": "#FFFFFF",
+                       "bgColor": "#4682B4",
+                       "clickBgColor": "#CBD40B",
+                       "borderTop": 1,
+                       "borderRight": 0,
+                       "borderBottom": 1,
+                       "borderLeft": 1,
+                       "borderColor": "#778899",
+                       "height":0.5,
+                       "width": 0.5,
+                       "status": 0
+                       }
+                       },
+                       {
+                       "left": 0,
+                       "top": 0.5,
+                       "viewType": "UIImageTextFlat",
+                       "viewClass": {
+                       "imageLeft": 82,
+                       "textLeft": 40,
+                       "fontSize": 12,
+                       "imageUrl": "http://183.196.130.125:9001/valuexchange/workbench/images/3.2.png",
+                       "text": "我要建精灵",
+                       "url": "http://183.196.130.125:9001/valuexchange/workbench/images/3.2.png",
+                       "fgColor": "#FFFFFF",
+                       "bgColor": "#4682B4",
+                       "clickBgColor": "#CBD40B",
+                       "borderTop": 0,
+                       "borderRight": 0,
+                       "borderBottom": 1,
+                       "borderLeft": 1,
+                       "borderColor": "#778899",
+                       "height":0.5,
+                       "width": 0.5,
+                       "status": 0
+                       }
+                       },
+                       {
+                       "left": 0.5,
+                       "top": 0,
+                       "viewType": "UIImageTextSquare",
+                       "viewClass": {
+                       "imageTop": 114,
+                       "textTop": 48,
+                       "fontSize": 12,
+                       "imageUrl": "http://183.196.130.125:9001/valuexchange/workbench/images/3.3.png",
+                       "text": "需求池",
+                       "url": "http://183.196.130.125:9001/valuexchange/workbench/images/3.3.png",
+                       "fgColor": "#FFFFFF",
+                       "bgColor": "#4682B4",
+                       "clickBgColor": "#CBD40B",
+                       "borderTop": 1,
+                       "borderRight": 0,
+                       "borderBottom": 1,
+                       "borderLeft": 1,
+                       "borderColor": "#778899",
+                       "width": 0.25,
+                       "status": 0
+                       }
+                       },
+                       {
+                       "left": 0.75,
+                       "top": 0,
+                       "viewType": "UIImageTextSquare",
+                       "viewClass": {
+                       "imageTop": 114,
+                       "textTop": 48,
+                       "fontSize": 12,
+                       "imageUrl": "http://183.196.130.125:9001/valuexchange/workbench/images/3.4.png",
+                       "text": "资源池",
+                       "url": "http://183.196.130.125:9001/valuexchange/workbench/images/3.4.png",
+                       "fgColor": "#FFFFFF",
+                       "bgColor": "#4682B4",
+                       "clickBgColor": "#CBD40B",
+                       "borderTop": 1,
+                       "borderRight": 1,
+                       "borderBottom": 1,
+                       "borderLeft": 1,
+                       "borderColor": "#778899",
+                       "width": 0.25,
+                       "status": 0
+                       }
+                       }]
+             },
+             {
+             "lineSpace": 0,
+             "rowHeight": 100,
+             "views": [{
+                       "left": 0,
+                       "top": 0,
+                       "viewType": "UIImageFlat",
+                       "viewClass": {
+                       "imageUrl": "http://183.196.130.125:9001/valuexchange/workbench/images/4.1.png",
+                       "url": "http://183.196.130.125:9001/valuexchange/workbench/images/4.1.png",
+                       "clickBgColor": "#CBD40B",
+                       "borderTop": 1,
+                       "borderRight": 1,
+                       "borderBottom": 1,
+                       "borderLeft": 1,
+                       "borderColor": "#778899",
+                       "width": 0.5
+                       }
+                       },
+                       {
+                       "left": 0.5,
+                       "top": 0,
+                       "viewType": "UIImageFlat",
+                       "viewClass": {
+                       "imageUrl": "http://183.196.130.125:9001/valuexchange/workbench/images/4.2.png",
+                       "url": "http://183.196.130.125:9001/valuexchange/workbench/images/4.2.png",
+                       "clickBgColor": "#CBD40B",
+                       "borderTop": 1,
+                       "borderRight": 1,
+                       "borderBottom": 1,
+                       "borderLeft": 0,
+                       "borderColor": "#778899",
+                       "width": 0.5
+                       }
+                       }]
+             }]
+}
